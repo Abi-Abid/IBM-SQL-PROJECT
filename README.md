@@ -1,10 +1,7 @@
-# IBM Data Science Certification - SQL Final Assignment  
+# SQL Practice Assesment  
 
 📌 **Repository Overview**  
-This repository contains my final assignment for the SQL module of the **IBM Data Science Professional Certification**. The notebook demonstrates SQL skills in querying, analyzing, and managing databases using python on anaconda Jupyter Notebook.  
-
-## 📂 Contents  
-- 📘 `IBM Certification SQL final Assignment.ipynb` – The Jupyter Notebook containing SQL queries and analysis.  
+This repository contains a practice assignment for the SQL. The notebook demonstrates SQL skills in querying, analyzing, and managing databases using python on anaconda Jupyter Notebook.  
 
 ## 🚀 Skills Demonstrated  
 - Writing complex SQL queries  
